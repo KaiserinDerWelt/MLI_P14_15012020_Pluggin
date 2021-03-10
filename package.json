@@ -1,0 +1,23 @@
+{
+  "name": "myfirstpackageever",
+  "version": "1.0.0",
+  "description": "This is a package",
+  "main": "Modal.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiserinDerWelt/jquery-plugin.git"
+  },
+  "keywords": [
+    "modal",
+    "pluggin"
+  ],
+  "author": "KaiserinDerWelt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaiserinDerWelt/jquery-plugin/issues"
+  },
+  "homepage": "https://github.com/KaiserinDerWelt/jquery-plugin#readme"
+}
