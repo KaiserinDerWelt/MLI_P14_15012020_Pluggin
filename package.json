@@ -1,7 +1,7 @@
 {
-  "name": "modalplugginreact",
-  "version": "1.0.0",
-  "description": "This is a package to integrate a nice modal with react.",
+  "name": "my-modal-pluggin",
+  "version": "1.0.1",
+  "description": "This is a converted jquery modal pluggin to react to satisfy new web development age.",
   "main": "Modal.js",
   "scripts": {
     "test": "npm test"
@@ -11,9 +11,9 @@
     "url": "git+https://github.com/KaiserinDerWelt/jquery-plugin.git"
   },
   "keywords": [
-    "Modal",
-    "react",
-    "pluggin"
+    "Pluggin",
+    "React",
+    "Modal"
   ],
   "author": "KaiserinDerWelt",
   "license": "ISC",
