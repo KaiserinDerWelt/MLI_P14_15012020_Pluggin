@@ -4,7 +4,8 @@
   "description": "This is a package",
   "main": "Modal.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "build": "npm build"
   },
   "repository": {
     "type": "git",
