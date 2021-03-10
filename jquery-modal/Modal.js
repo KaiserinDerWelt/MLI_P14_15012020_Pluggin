@@ -27,3 +27,4 @@ function Modal({ open, children, disableClose, onClose, loginForm }) {
 }
 
 export default Modal;
+
